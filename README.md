@@ -11,3 +11,5 @@ Here you can find image classification from scratch using VGG and applying a pre
    * Batch normalization
    * Regularization
 3. Pre-trained ResNet50  
+
+Note: you can find the detailed report on the [Report file](https://github.com/ahmadfardaei/Image-classification-CIFAR10/blob/main/Report.pdf)
